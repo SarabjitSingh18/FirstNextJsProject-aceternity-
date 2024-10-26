@@ -1,0 +1,114 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "title": "Introduction to Python",
+      "slug": "introduction-to-python",
+      "description": "Learn the basics of Python programming, perfect for beginners with no prior experience.",
+      "price": 99.99,
+      "instructor": "Alice Johnson",
+      "isFeatured": true,
+      "image": "/courses/python.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Web Development with HTML & CSS",
+      "slug": "web-development-html-css",
+      "description": "Start your journey into web development by learning HTML and CSS, the foundation of any website.",
+      "price": 109.99,
+      "instructor": "Mark Thompson",
+      "isFeatured": false,
+      "image": "/courses/html-css.jpg"
+    },
+    {
+      "id": 3,
+      "title": "JavaScript for Beginners",
+      "slug": "javascript-for-beginners",
+      "description": "Master the essentials of JavaScript to create dynamic, interactive web pages.",
+      "price": 119.99,
+      "instructor": "Sophia Lee",
+      "isFeatured": true,
+      "image": "/courses/javascript.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Advanced React Development",
+      "slug": "advanced-react-development",
+      "description": "Take your React skills to the next level with this advanced course covering hooks, state management, and performance optimization.",
+      "price": 129.99,
+      "instructor": "Chris Evans",
+      "isFeatured": false,
+      "image": "/courses/react.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Node.js and Express Mastery",
+      "slug": "nodejs-and-express-mastery",
+      "description": "Learn how to build powerful, scalable server-side applications using Node.js and Express.",
+      "price": 139.99,
+      "instructor": "David Brown",
+      "isFeatured": false,
+      "image": "/courses/nodejs.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Full Stack Development with MERN",
+      "slug": "full-stack-development-mern",
+      "description": "Master full-stack web development with MongoDB, Express, React, and Node.js (MERN).",
+      "price": 149.99,
+      "instructor": "Emily Wilson",
+      "isFeatured": true,
+      "image": "/courses/mern.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Data Structures and Algorithms in C++",
+      "slug": "data-structures-algorithms-cpp",
+      "description": "Enhance your problem-solving skills by learning data structures and algorithms using C++.",
+      "price": 159.99,
+      "instructor": "John Carter",
+      "isFeatured": false,
+      "image": "/courses/cpp-dsa.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Mobile App Development with Flutter",
+      "slug": "mobile-app-development-flutter",
+      "description": "Build beautiful and efficient cross-platform mobile apps using Flutter and Dart.",
+      "price": 169.99,
+      "instructor": "Olivia Martinez",
+      "isFeatured": true,
+      "image": "/courses/flutter.jpg"
+    },
+    {
+      "id": 9,
+      "title": "Database Design and Management",
+      "slug": "database-design-management",
+      "description": "Learn how to design, manage, and optimize databases using SQL and NoSQL technologies.",
+      "price": 179.99,
+      "instructor": "Michael Scott",
+      "isFeatured": false,
+      "image": "/courses/database.jpg"
+    },
+    {
+      "id": 10,
+      "title": "Cybersecurity Fundamentals",
+      "slug": "cybersecurity-fundamentals",
+      "description": "Get started with cybersecurity and learn the essential concepts to protect systems from threats.",
+      "price": 189.99,
+      "instructor": "Lara Collins",
+      "isFeatured": true,
+      "image": "/courses/cybersecurity.jpg"
+    },
+    {
+      "id": 11,
+      "title": "Introduction to Tailwind CSS",
+      "slug": "introduction-to-tailwind-css",
+      "description": "Learn the basics of Tailwind CSS, perfect for beginners with no prior experience.",
+      "price": 100.99,
+      "instructor": "Lara Collins",
+      "isFeatured": true,
+      "image": "https://cdn.pixabay.com/photo/2024/05/21/19/58/code-8779057_1280.jpg"
+    }
+  ]
+}

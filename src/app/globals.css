@@ -13,6 +13,28 @@
     --foreground: #ededed;
   }
 }
+/* Dark scrollbar styling */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #1a1a1a; /* Dark background for track */
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: #555; /* Dark gray thumb */
+  border-radius: 4px;
+  border: 1px solid #333; /* Optional border */
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background-color: #777; /* Lighter on hover */
+}
+
+/* For Firefox */
+
+
 
 body {
   color: var(--foreground);
